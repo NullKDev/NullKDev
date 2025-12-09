@@ -16,7 +16,7 @@
         title = 'Software Developer'
         location = 'Perú'
         linkedin = 'https://www.linkedin.com/in/jcarlos-dev/'
-        portfolio = 'https://nearapps.github.io'
+        portfolio = 'https://nullkdev.github.io'
         available = true
 
         contact() {
@@ -57,11 +57,11 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NearApps&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NearApps's Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NearApps&theme=dark&hide_border=true" alt="NearApps's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NullKDev&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NullKDev's Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullKDev&theme=dark&hide_border=true" alt="NullKDev's Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NearApps&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NearApps's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullKDev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NullKDev's Top Languages" />
       </td>
     </tr>
   </table>
