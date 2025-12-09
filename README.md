@@ -11,7 +11,7 @@
   </div>
 
   ```js
-      class CarlosA {
+      class CarlosDev {
         name = 'Carlos Alarcon'
         title = 'Software Developer'
         location = 'Perú'
@@ -31,7 +31,7 @@
         }
       }
   
-      const me = new CarlosA();
+      const me = new CarlosDev();
       me.contact()
   ```
 
