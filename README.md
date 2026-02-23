@@ -10,7 +10,7 @@
   
   </div>
 
-  ```js
+  ```ts
       class CarlosDev {
         name = 'Carlos Alarcon'
         title = 'Software Developer'
